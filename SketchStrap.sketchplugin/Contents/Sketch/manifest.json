@@ -1,0 +1,22 @@
+{
+  "name": "SketchStrap",
+  "identifier": "com.sketchapp.jz.at.sketchstrap",
+  "version": "1.0.0",
+  "description": "Import your scss by our plugin, edit Sketch files and export customized components straight to bootstrap just by a few clicks!",
+  "author": "Jazzy Innovations",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Update",
+      "identifier": "sketchstrap-update",
+      "script": "update.js"
+    },
+    {
+      "name": "Update selected",
+      "identifier": "sketchstrap-update-selected",
+      "script": "updateSelected.js"
+    }
+  ],
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml"
+}
