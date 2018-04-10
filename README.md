@@ -24,5 +24,8 @@ _btn(fill:$primary; border-radius:$border-radius;)
 #### Hierarchy of elements
 We build groups as containers to imitate actual Bootstrap hierarchy.
 
+### Copyright and license
+Copyright 2018 Jazzy Innovations. Resources released under the MIT license. There is only one limitation you can't re-distribute the SketchStrap as stock. You can’t do this if you modify the SketchStrap.
+
 ---
 *Made with love by [Jazzy Innovations](https://jazzy.pro)*
