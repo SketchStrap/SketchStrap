@@ -1,12 +1,15 @@
 ## SketchStrap
 
-![SketchStrap](https://sketchstrap.jazzy.pro/assets/images/facebooklogo.png)
+![SketchStrap](https://sketchstrap.io/assets/images/facebooklogo.png)
 
-Sketch file with a full package of Bootstrap components. We have __21 artboards__, __340 components__, and more. Learn about rest of features on [sketchstrap.jazzy.pro](https://sketchstrap.jazzy.pro).
+Sketch file with a full package of Bootstrap components. We have __21 artboards__, __340 components__, and more. Learn about rest of features on [sketchstrap.io](https://sketchstrap.io).
 
 ### Overview
 
 SketchStrap component kit has been prepared to get along with plugins that complementing SketchStrap bundle. Please, remember that some part of sketch file (like naming schema, element hierarchy and construction methods) are dictated by compatibility.
+
+### SketchStrap.sketchplugin
+In this repo we are sharing part of our Sketch plugin that is required to work with SketchStrap UI kit. To get the full experience of SketchStrap check our subscription plans on [sketchstrap.io](https://sketchstrap.io).
 
 ### Tech spec
 #### Why not symbols?
