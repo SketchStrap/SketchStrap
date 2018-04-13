@@ -8,6 +8,11 @@ Sketch file with a full package of Bootstrap components. We have __21 artboards_
 
 SketchStrap component kit has been prepared to get along with plugins that complementing SketchStrap bundle. Please, remember that some part of sketch file (like naming schema, element hierarchy and construction methods) are dictated by compatibility.
 
+### How to install
+[Download your copy of package](https://github.com/SketchStrap/SketchStrap/archive/master.zip) and unzip it. You will have in there __two__ major files: `SketchStrap.sketchplugin` and `control-panel.sketch`.
+1. Install your `SketchStrap.sketchplugin` by moving it to your Sketch plugin folder. This folder can be found by using `Plugin > Manage Plugins... > ⚙ > Reveal Plugins Folder`.
+2. Now you can use `control-panel.sketch` file as you need. After changes in control-panel page you can populate changes through whole file using our __Update__ plugin.
+
 ### SketchStrap.sketchplugin
 In this repo we are sharing part of our Sketch plugin that is required to work with SketchStrap UI kit. To get the full experience of SketchStrap check our subscription plans on [sketchstrap.io](https://sketchstrap.io).
 
