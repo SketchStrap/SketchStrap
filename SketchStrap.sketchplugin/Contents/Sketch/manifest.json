@@ -9,12 +9,14 @@
     {
       "name": "Update",
       "identifier": "sketchstrap-update",
-      "script": "update.js"
+      "script": "update.js",
+      "handler": "update"
     },
     {
       "name": "Update selected",
       "identifier": "sketchstrap-update-selected",
-      "script": "updateSelected.js"
+      "script": "update.js",
+      "handler": "updateSelected"
     }
   ],
   "disableCocoaScriptPreprocessor": true,
